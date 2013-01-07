@@ -1,4 +1,4 @@
 zcoson
 ======
 
-ZCOSON博客
+ZCOSON是一个简单的 JSP 博客
